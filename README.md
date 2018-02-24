@@ -10,3 +10,11 @@
 ## Kmeans
 
 - https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+## Segmentation of medical images
+
+- http://www.andrewjanowczyk.com/revised-deep-learning-approach-using-matlab-caffe-python/
+- http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
+- https://github.com/duggalrahul/Overlapping-Cell-Nuclei-Segmentation-using-DBN
+- https://nucleisegmentationbenchmark.weebly.com/
+- https://surabhibhargava.github.io/Detection-and-Segmentation-of-Nuclei-in-Computational-Pathology/
