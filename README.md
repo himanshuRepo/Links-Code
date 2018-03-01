@@ -1,5 +1,12 @@
 # Some useful links:
 
+## Deep Learning
+
+- https://devblogs.nvidia.com/category/artificial-intelligence/
+- http://yerevann.com/a-guide-to-deep-learning/
+- http://deeplearning.stanford.edu/tutorial/
+- http://www.asimovinstitute.org/neural-network-zoo/
+
 ## Computer Vision
 
 - https://sites.google.com/site/pinglicszju/cv_source
@@ -20,3 +27,10 @@
 - https://github.com/duggalrahul/Overlapping-Cell-Nuclei-Segmentation-using-DBN
 - https://nucleisegmentationbenchmark.weebly.com/
 - https://surabhibhargava.github.io/Detection-and-Segmentation-of-Nuclei-in-Computational-Pathology/
+- https://www.kaggle.com/c/data-science-bowl-2018/discussion/47572
+
+
+## Challenges:
+
+- Medical Image Challenges: https://grand-challenge.org/all_challenges/
+- Kaggle: https://www.kaggle.com/competitions
