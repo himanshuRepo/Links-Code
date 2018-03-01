@@ -7,6 +7,7 @@
 - http://faculty.ucmerced.edu/mhyang/pubs.html
 - http://openaccess.thecvf.com/CVPR2017.py
 - http://www.robots.ox.ac.uk/~vgg/research/counting/
+- http://make3d.cs.cornell.edu/index.html
 
 ## Kmeans
 
