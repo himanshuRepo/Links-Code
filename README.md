@@ -20,7 +20,7 @@
 
 - https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
 
-## Segmentation of medical images
+## Medical images
 
 - http://www.andrewjanowczyk.com/revised-deep-learning-approach-using-matlab-caffe-python/
 - http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
@@ -28,6 +28,7 @@
 - https://nucleisegmentationbenchmark.weebly.com/
 - https://surabhibhargava.github.io/Detection-and-Segmentation-of-Nuclei-in-Computational-Pathology/
 - https://www.kaggle.com/c/data-science-bowl-2018/discussion/47572
+- http://bmihub.org/project/sccr
 
 
 ## Challenges:
